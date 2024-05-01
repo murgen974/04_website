@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "First blog post\n\n\n\nQuarto\n\n\nR\n\n\n\nblog post description\n\n\n\nJulien Delmas\n\n\nAug 10, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Julien Delmas",
+    "section": "",
+    "text": "Hi,\nMy name is Julien Delmas.\nI am working as Technical Service Chemist in the lithium ion battery. I started to learn R on my own few years ago. I am interested in data visualisation, work automation, data science, statistics…\nThis is my personal blog. I will post about various subject and practice R."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Julien Delmas",
+    "section": "",
+    "text": "Hi,\nMy name is Julien Delmas.\nI am working as Technical Service Chemist in the lithium ion battery. I started to learn R on my own few years ago. I am interested in data visualization, work automation, data science, statistics…\nThis is my personal blog. I will post about various subject and practice R."
+  },
+  {
+    "objectID": "resume_jd.html",
+    "href": "resume_jd.html",
+    "title": "JDelmas974",
+    "section": "",
+    "text": "Equivalent to a Master’s degree\nEngineering courses focused on chemistry\nOne year exchange in Japan\n\n\n\n\n\nTools - Microsoft Office, R, basic skills: SQL, Git, SAP\nTechnical skills - Polymer, Lithium Ion Battery Process: slurry preparation, coating, cell and electrochemical evaluation\nLanguages - French: Native, English: business (TOEIC, 02/2008, 900/990), Japanese: business (JLPT N2, 12/2013, 91/180), German: beginner (ZDfB, 06/2007, 60/100)\n\n\n\nTechnical: product presentation and recommendation (anode, cathode, separator), product qualification (PPAP…)\nSales: production planning, logistic, outreach to customer,\n\nSustainability: LCA study coordinator\nLegal: NDA, contract…\nProject: coordinator and main contact person for local production in Europe\n\n\n\nResearch mission for the development of binder for the cathode and anode of lithium ion battery\nCoordination and commercialization of aqueous products (binder) for the positive electrode\nMarket: automotive market, energy storage system (ESS)\nTechnical advice for European customers from the binder utilization (slurry preparation process), electrode formulation to the electrochemical evaluation of the products.\nTechnical seminar at customers laboratory to demonstrate products utilization\nProducts promotion at international exhibition (Stuttgart, 2016)\n\n\n\nTechnical and development support for Asia-Pacific customer, engineering plastics and processing; long chain polyamide, polyphtalamide, elastomers\nMarket: Automotive, Industrial, Consumer, E&E market with prevalence experience in the automotive sector\n\n\n\nFormulation of water-borne emulsion, Kynar® Aquatec for coating applications\n\n\n\nFunctionalization of indole derivate with click chemistry reaction\n\n\n\nSynthesis and evaluation of the cooling effect of a menthol derivate\n\n\n\nDriving licence\nSport (Tennis), cinema, reading"
+  },
+  {
+    "objectID": "blog/20230810_first-blog/index.html",
+    "href": "blog/20230810_first-blog/index.html",
+    "title": "First blog post",
+    "section": "",
+    "text": "This is my first post. It will be short and just how I created my CV for this website. Thank you for all the people who put out resources for me to create my first blog and CV:\n\nModel of the website and CV\nPublication of the blog through Github and deployment with Netlify"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "blog",
+    "section": "",
+    "text": "Second blog post\n\n\n\nQuarto\n\n\nR\n\n\n\nblog post description\n\n\n\nJulien Delmas\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFirst blog post\n\n\n\nQuarto\n\n\nR\n\n\n\nblog post description\n\n\n\nJulien Delmas\n\n\nAug 10, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/20240130_second-post/index.html",
+    "href": "blog/20240130_second-post/index.html",
+    "title": "Second blog post",
+    "section": "",
+    "text": "this is a test"
+  }
+]

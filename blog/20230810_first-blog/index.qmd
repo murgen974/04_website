@@ -1,0 +1,18 @@
+---
+title: "First blog post"
+description: "blog post description"
+author:
+  - name: Julien Delmas
+date: 08-10-2023
+categories: [Quarto, R]
+draft: false # setting this to `true` will prevent your post from appearing on yo
+---
+
+This is my first post. It will be short and just how I created my CV for this website. Thank you for all the people who put out resources for me to create my first blog and CV:
+
+1.  Model of the [website and CV](https://www.marvinschmitt.com/blog/website-tutorial-quarto/)
+
+2.  Publication of the blog through Github and deployment with [Netlify](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
+
+```         
+```

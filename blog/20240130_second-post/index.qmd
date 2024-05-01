@@ -1,0 +1,12 @@
+---
+title: "Second blog post"
+description: "blog post description"
+author:
+    - Julien Delmas
+date: 30-01-2024
+categories: [Quarto, R]
+draft: false
+---
+
+
+this is a test

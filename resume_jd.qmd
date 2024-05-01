@@ -1,0 +1,278 @@
+---
+format: 
+  pdf: 
+    documentclass: article
+    geometry:
+      - top=8mm
+      - left=10mm
+      - right=10mm
+      - bottom=5mm
+      - heightrounded
+    fontfamily: libertine
+    colorlinks: true
+    fontsize: '16'
+    include-in-header: 
+      text: |
+        \usepackage{multicol}
+        \usepackage{lipsum}
+        \usepackage{hyperref}
+        \usepackage{libertine}
+        \pagestyle{empty}
+        \setlength{\multicolsep}{2pt plus 1.0pt minus 0.75pt}% 50% of original values
+        \setlength{\columnsep}{3em}
+---
+
+<!-- https://alexbass.me/posts/resume/ -->
+
+<!-- TITLE -->
+
+```{=tex}
+\begin{large}\begin{center}{\bf CHEMICAL ENGINEER}\end{center}\end{large}
+```
+```{=tex}
+\begin{huge}\begin{center}{\bf JULIEN DELMAS}\end{center}\end{huge}
+```
+<!-- CONTACT INFO -->
+
+```{=tex}
+\begin{center}jdelmas974.contact@outlook.com ∙ \href{https://jdelmas974.netlify.com}{Portfolio} ∙ \href{https://github.com/jdelmas974}{Github} ∙ \href{https://www.linkedin.com/in/}{LinkedIn}
+\end{center}
+\vspace{8pt}
+```
+```{=tex}
+\begin{large}\begin{center}
+{\bf Working Experience: 12Y in Japan, 3Y in Germany, Technical Sales, Lithium-ion Battery Market (10 years), Speciality Rubber and Plastics, Automotive Market}
+\end{center}\end{large}
+```
+\vspace{7pt}
+
+<!-- EDUCATION: 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+  {\bf EDUCATION}
+  \vspace{3pt}
+  \hrule
+    \begin{multicols}{1}
+    \begin{flushleft}{\bf \href{https://www.ensc-lille.fr/fr/}{ENSCL Degree}}\end{flushleft}
+    \begin{flushright} Sept 2006-Jun 2009 \end{flushright}
+    \end{multicols}
+      \vspace{-0.17cm}
+    \begin{flushright}Lille, France\end{flushright}
+  \vspace{-0.8cm}
+  \end{large}
+```
+-   Equivalent to a Master's degree
+-   Engineering courses focused on chemistry
+-   One year exchange in Japan
+
+\vspace{0.2cm}
+
+<!-- EDUCATION: 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{1}
+    \begin{flushleft}{\bf \href{http://montaigne-bordeaux.fr/prepas/}{Intensive undergraduate preparatory program}}\end{flushleft}
+     \begin{flushright}Sept 2004- Jun 2006\end{flushright}
+
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{1}
+    \begin{flushleft}subject: mathematics, physics, chemistry and biology\end{flushleft}
+    \begin{flushright}Bordeaux, France\end{flushright}
+  \end{multicols}
+\vspace{0.1cm}
+\end{large}
+```
+<!-- EDUCATION: 3rd BULLET -->
+
+```{=tex}
+\begin{large}
+\begin{multicols}{1}
+    \begin{flushleft}{\bf Scientific baccalaureate }\end{flushleft}
+     \begin{flushright}2004\end{flushright}
+\end{multicols}
+  \vspace{-0.17cm}
+\begin{multicols}{1}
+    \begin{flushleft}Equivalent to A levels in mathematics, physics, chemistry and biology, passed with distinction\end{flushleft}
+     \begin{flushright}France\end{flushright}  
+\end{multicols}
+  \vspace{-0.17cm}
+
+  \vspace{-0.25cm}
+\end{large}
+\vspace{0.7cm}
+```
+<!-- SKILLS -->
+
+```{=tex}
+\begin{large}{\bf SKILLS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.1cm}
+```
+-   **Tools** - Microsoft Office, R, *basic skills:* SQL, Git, SAP
+-   **Technical skills** - Polymer, Lithium Ion Battery Process: slurry preparation, coating, cell and electrochemical evaluation
+-   **Languages** - *French:* Native, *English:* business (TOEIC, 02/2008, 900/990), *Japanese:* business (JLPT N2, 12/2013, 91/180), *German:* beginner (ZDfB, 06/2007, 60/100)
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 1ST BULLET-->
+
+```{=tex}
+\begin{large}{\bf EXPERIENCE}
+  \vspace{3pt}
+  \hrule
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.zeon.eu/}{Zeon Europe GmbH}}\end{flushleft}
+    \begin{flushright}Jul 2020-Present\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Technical Service Chemist}\end{flushleft}
+    \begin{flushright}Duesseldorf, DE\end{flushright}\end
+  {multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+-   **Main function**: Technical-Sales roles for products and solution for the Lithium Ion Batteries market with a focus on the automotive market
+-   **Technical:**
+    -   Product presentation and recommendation (anode, cathode, separator)
+    -   In-house demonstration or trials at Customers
+    -   Qualification of product for the automotive market: APQP, PPAP, audit...
+    -   Internal presentation: monthly internal presentation, product presentation
+-   **Marketing:** presentation at conference, market watch
+-   **Sales:** price negotiation, outreach to customer to develop relation and market
+-   **Logistics**: production and forecast from customer, creation of delivery plan, delivery follow-up
+-   **Legal:** discussion and negotiation of NDA and sales contracts
+-   **Teams activities:** organisation weekly teams meeting
+-   **Project:**
+    -   Coordinator and main contact person for local production in Europe
+        -   Project scheduling and budget
+        -   Change management with customer
+    -   Coordinator and lead for Life Cycle Analysis study in Europe
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 2ND BULLET -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.zeon.co.jp/en/}{Zeon Corporation}}\end{flushleft}
+    \begin{flushright}May 2013-June 2023\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Researcher}\end
+    {flushleft}\begin{flushright}Kawasaki, JP\end
+    {flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+-   Research mission for the development of binder for the cathode and anode of lithium ion battery
+-   Coordination and commercialization of aqueous products (binder) for the positive electrode
+-   Market: automotive market, energy storage system (ESS)
+-   Technical advice for European customers from the binder utilization (slurry preparation process), electrode formulation to the electrochemical evaluation of the products.
+-   Technical seminar at customers laboratory to demonstrate products utilization
+-   Products promotion at international exhibition (Stuttgart, 2016)
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 3RD BULLET ARKEMA VIE -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.arkema.com/global/en/}{Arkema K.K.}}\end{flushleft}
+    \begin{flushright}Oct. 2009-Dec 2012\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Technical Support Engineer}\end{flushleft}
+    \begin{flushright}Kyoto, JP\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+-   Technical and development support for Asia-Pacific customer, engineering plastics and processing; long chain polyamide, polyphtalamide, elastomers
+-   Market: Automotive, Industrial, Consumer, E&E market with prevalence experience in the automotive sector
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 4TH BULLET ARKEMA TRAINEE -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.arkema.com/global/en/}{Arkema K.K.}}\end{flushleft}
+    \begin{flushright}Oct 2008-March 2009\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Engineer Trainee, Fluoropolymer Emulsion}\end{flushleft}
+    \begin{flushright}Kyoto, JP\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+-   Formulation of water-borne emulsion, Kynar® Aquatec for coating applications
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 5TH BULLET LILLE -->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.ibl.fr//}{Biology Institute of Lille}}\end{flushleft}
+    \begin{flushright}Jul 2007-Aug 2007\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Engineer Trainee, Chemistry Laboratory}\end{flushleft}
+    \begin{flushright}Lille, FR\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+-   Functionalization of indole derivate with click chemistry reaction
+
+\vspace{7pt}
+
+<!-- EXPERIENCE : 6TH BULLET TAKASAGO-->
+
+```{=tex}
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf \href{https://www.takasago.com/en}{Takasago K.K. }}\end{flushleft}
+    \begin{flushright}Jul 2006-Aug 2006\end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}\textit{Engineer Trainee, Flagrance Laboratory}\end{flushleft}
+    \begin{flushright}Kyoto, JP\end{flushright}
+  \end{multicols}
+\end{large}
+\vspace{-0.16cm}
+```
+-   Synthesis and evaluation of the cooling effect of a menthol derivate
+
+\vspace{7pt}
+
+<!-- PERSONAL PROJECTS : 1ST BULLET -->
+
+```{=tex}
+\begin{large}
+{\bf OTHER INFORMATION AND INTEREST}
+  \vspace{3pt}
+  \hrule
+\end{large}
+```
+-   Driving licence
+-   Sport (Tennis), cinema, reading
+
+## \vspace{7pt}

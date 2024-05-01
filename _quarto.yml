@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "JDelmas974"
+  navbar:
+    left:
+      - text: "Julien Delmas"
+        href: index.qmd
+      - text: "cv"
+        href: cv/index.qmd
+      - text: "blog"
+        href: blog/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

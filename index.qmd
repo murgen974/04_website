@@ -1,0 +1,21 @@
+---
+title: "Julien Delmas"
+about:
+  template: solana
+  image: run_sunset.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com
+---
+
+Hi,
+
+My name is Julien Delmas.
+
+I am working as Technical Service Chemist in the lithium ion battery. I started to learn R on my own few years ago. I am interested in data visualization, work automation, data science, statistics...
+
+This is my personal blog. I will post about various subject and practice R.
