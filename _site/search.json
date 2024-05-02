@@ -19,5 +19,19 @@
     "title": "Curriculum vitae",
     "section": "",
     "text": "Download current CV"
+  },
+  {
+    "objectID": "blog/20230810_first-blog/index.html",
+    "href": "blog/20230810_first-blog/index.html",
+    "title": "First blog post",
+    "section": "",
+    "text": "This is my first post. It will be short and just how I created my CV for this website. Thank you for all the people who put out resources for me to create my first blog and CV:\n\nModel of the website and CV\nPublication of the blog through Github and deployment with Netlify"
+  },
+  {
+    "objectID": "blog/20240130_second-post/index.html",
+    "href": "blog/20240130_second-post/index.html",
+    "title": "Second blog post",
+    "section": "",
+    "text": "this is a test"
   }
 ]
